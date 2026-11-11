@@ -4,6 +4,26 @@
 
 The name comes from Dickinson: *"Tell all the truth but tell it slant."*
 
+## See it
+
+![Meet Slant: the splash screen on the device](docs/screenshots/01-meet-slant.jpg)
+
+| 1. Top button: choose a mode | 2. Bottom button: draw a card |
+|---|---|
+| ![Top button chooses a mode](docs/screenshots/08-top-button-choose-mode.jpg) | ![Bottom button draws a card](docs/screenshots/09-bottom-button-draw-card.jpg) |
+
+The twelve modes:
+
+| | |
+|---|---|
+| ![Oblique Strategies and Steal From Elsewhere](docs/screenshots/02-modes-oblique-steal.jpg) | ![Pre-Mortem and Constraint Generator](docs/screenshots/03-modes-premortem-constraint.jpg) |
+| ![Stakeholder Perspective and Values Check](docs/screenshots/04-modes-stakeholder-values.jpg) | ![Ecosystem Scan and Decision Forcer](docs/screenshots/05-modes-ecosystem-decision.jpg) |
+| ![Futures Thinking and Scaling](docs/screenshots/06-modes-futures-scaling.jpg) | ![Emily Dickinson and Read Me](docs/screenshots/07-modes-dickinson-readme.jpg) |
+
+Leave it on the Splash screen and it makes a good gift:
+
+![The SLANT splash, ready to give](docs/screenshots/10-splash-gift.jpg)
+
 ## Buy the hardware
 
 Slant runs on the **Waveshare ESP32-S3-ePaper-1.54** board:
