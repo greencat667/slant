@@ -1,6 +1,6 @@
 # Slant
 
-**A pocket deck of facilitation prompts on a 1.54" e-paper screen.** Press a button, get a card: a pre-mortem question, a constraint, a stakeholder to argue as, a line from Emily Dickinson. Built for workshops, innovation and charity work. It runs for a very long time on a small battery, works fully offline, and the screen keeps its image with no power.
+**A pocket deck of facilitation prompts on a 1.54" e-paper screen.** Press a button, get a card: a pre-mortem question, a constraint, a stakeholder to argue as, a line from Emily Dickinson. Built for workshops, innovation and charity work. It works fully offline, sleeps between presses, and the screen keeps its image with no power.
 
 The name comes from Dickinson: *"Tell all the truth but tell it slant."*
 
